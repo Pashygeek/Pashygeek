@@ -55,7 +55,7 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Pashygeek&theme=dracula&area=true" />
+  <img src="https://raw.githubusercontent.com/Pashygeek/Pashygeek/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---

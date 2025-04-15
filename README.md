@@ -38,8 +38,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pashygeek&show_icons=true&theme=radical" alt="Pashygeek GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pashygeek&layout=compact&theme=radical" alt="Top Langs" />
+<img src="https://github-readme-stats-pashygeek.vercel.app/api?username=Pashygeek&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats-pashygeek.vercel.app/api/top-langs/?username=Pashygeek&layout=compact&theme=radical" />
 </p>
 
 ---

@@ -22,8 +22,20 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,rails,postgres,figma,git,github,vscode,heroku,netlify" />
+  <span class="tech-icons">
+    <img src="https://skillicons.dev/icons?i=html,css,js,rails,ruby,react,node,python,postgres,mysql,figma" alt="Tech Stack" />
+  </span>
 </p>
+
+<style>
+  .tech-icons img {
+    transition: transform 0.3s ease;
+  }
+
+  .tech-icons img:hover {
+    transform: rotateY(180deg) scale(1.1);
+  }
+</style>
 
 ---
 
@@ -52,12 +64,11 @@
 
 ---
 
-### 📈 Activity Graph
+### 📊 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pashygeek&show_icons=true&hide_title=true&hide_rank=true" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Pashygeek&theme=radical&hide_border=true&area=true" />
 </p>
----
 
 ### 🌐 Connect With Me
 

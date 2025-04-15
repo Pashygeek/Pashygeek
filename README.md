@@ -15,7 +15,7 @@
 - 🌱 Currently learning **Next.js**, **Docker**, and advanced **CI/CD**
 - 👯 I’m open to collaborating on anything exciting & meaningful
 - 💬 Ask me about `design systems`, `frontend performance`, or `API integrations`
-- 📫 How to reach me: **pashygeek@example.com**
+- 📫 How to reach me: **codyypashy@gmail.com**
 
 ---
 

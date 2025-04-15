@@ -27,39 +27,6 @@
   </span>
 </p>
 
-<style>
-  .tech-icons {
-    display: flex;
-    gap: 20px;
-    justify-content: center;
-    perspective: 1200px;
-  }
-
-  .tech-icons img {
-    width: 50px;
-    height: 50px;
-    transition: transform 0.6s ease, filter 0.4s ease, box-shadow 0.4s ease;
-    border-radius: 10%;
-    transform-style: preserve-3d;
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
-  }
-
-  .tech-icons img:hover {
-    transform: rotateY(360deg) rotateX(15deg) scale(1.2);
-    filter: brightness(1.3);
-    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
-  }
-
-  .tech-icons img:nth-child(odd) {
-    clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
-  }
-
-  .tech-icons img:nth-child(even) {
-    clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
-    transform: rotateZ(45deg);
-  }
-</style>
-
 ---
 
 ### 🧩 GitHub Profile Trophies

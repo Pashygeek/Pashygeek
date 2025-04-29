@@ -46,19 +46,6 @@
 
 ---
 
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pashygeek&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
----
-
-### 📊 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Pashygeek&theme=radical&hide_border=true&area=true" />
-</p>
 
 ### 🌐 Connect With Me
 
@@ -76,3 +63,4 @@
 I use tabs over spaces. 
 My design folder is more organized than my groceries list. 
 I’m probably refactoring something right now.
+Majority of my major projects are private.

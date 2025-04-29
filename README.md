@@ -63,4 +63,4 @@
 I use tabs over spaces. 
 My design folder is more organized than my groceries list. 
 I’m probably refactoring something right now.
-Majority of my major projects are private.
+99% of my projects are private.
